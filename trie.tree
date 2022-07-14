@@ -1,0 +1,116 @@
+digraph {
+graph [
+  nodesep=0.25,
+  ranksep=0.3,
+  splines=line
+];
+node [
+  style=filled,
+  fillcolor=lightblue,
+  shape=circle
+];
+edge [
+  arrowsize=0.8,
+  color=black
+];
+
+139651066860272 [
+  label=""
+];
+139651066055216 [
+  label="w"
+];
+139651039969200 [
+  label="o"
+];
+139651039966384 [
+  label="r"
+];
+139651039968880 [
+  label="d"
+  xlabel=<<FONT COLOR="grey25" POINT-SIZE="12">word</FONT>>
+  fillcolor="forestgreen"
+  color="black"
+];
+139651039967728 [
+  label="f"
+];
+139651039966896 [
+  label="e"
+];
+139651039966832 [
+  label="u"
+];
+139651039967792 [
+  label="d"
+  xlabel=<<FONT COLOR="grey25" POINT-SIZE="12">wordfeud</FONT>>
+  fillcolor="forestgreen"
+  color="black"
+];
+139651065676016 [
+  label="p"
+];
+139651039967664 [
+  label="i"
+  xlabel=<<FONT COLOR="grey25" POINT-SIZE="12">pi</FONT>>
+  fillcolor="forestgreen"
+  color="black"
+];
+139651039968368 [
+  label="s"
+];
+139651039967600 [
+  label="t"
+];
+139651039966576 [
+  label="o"
+];
+139651039965552 [
+  label="l"
+  xlabel=<<FONT COLOR="grey25" POINT-SIZE="12">pistol</FONT>>
+  fillcolor="forestgreen"
+  color="black"
+];
+139651039966832 -> 139651039967792 [
+
+];
+139651039966896 -> 139651039966832 [
+
+];
+139651039967728 -> 139651039966896 [
+
+];
+139651039968880 -> 139651039967728 [
+
+];
+139651039966384 -> 139651039968880 [
+
+];
+139651039969200 -> 139651039966384 [
+
+];
+139651066055216 -> 139651039969200 [
+
+];
+139651066860272 -> 139651066055216 [
+
+];
+139651039966576 -> 139651039965552 [
+
+];
+139651039967600 -> 139651039966576 [
+
+];
+139651039968368 -> 139651039967600 [
+
+];
+139651039967664 -> 139651039968368 [
+
+];
+139651065676016 -> 139651039967664 [
+
+];
+139651066860272 -> 139651065676016 [
+
+];
+}
